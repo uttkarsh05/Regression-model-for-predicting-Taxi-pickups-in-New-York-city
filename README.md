@@ -1,5 +1,5 @@
 # hw1-ai1-fall2019-uttkarsh-jain
-we will build regression models that can predict the number of taxi pickups in New York city at any given time of the day. 
+We will build regression models that can predict the number of taxi pickups in New York city at any given time of the day. 
 These prediction models will be useful, for example, in monitoring traffic in the city.
 The data set for this problem is given in files dataset_1_train.txt and dataset_1_test.txt as separate training and test sets. 
 The first column in each file contains the time of a day in minutes, and the
